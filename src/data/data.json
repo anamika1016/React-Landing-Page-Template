@@ -1,28 +1,29 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "ENRICHING THE SOIL OF REGENERATION",
+    "paragraph": "financial support, and technology mobilization, among various others, have long hindered the growth potential of FPOs and small farmers."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Challenges like market linkage, processing, branding, financial support, and technology mobilization, among various others, have long hindered the growth potential of FPOs and small farmers. With the rising number of FPOs, a proactive approach was needed to overcome the persistent challenges they face.\n\nTo tackle these hurdles head-on, Ploughman Agro Private Ltd. (PAPL), a dynamic social enterprise, was conceptualized and established as a private limited company registered under the Companies Act, 2013. PAPL is dedicated to revolutionizing the agri-business landscape by facilitating the aggregation and trading of produce from farmer producer organizations. By strategically identifying optimal markets, seamlessly integrating supply chains, and ensuring the best pricing, PAPL empowers FPOs to thrive and optimize their agricultural practices.\n\nThrough this comprehensive solution, FPOs can navigate the intricate web of challenges and pave the way for a more prosperous future for small farmer communities. We have our headquarters in Madhya Pradesh, a strategic central location in smallholder-dominant central India, with the highest growth in agricultural productivity in the last few years.",
+    "show_read_more": true,
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Facilitating market linkages for FPOs",
+      "Enhancing branding and processing capabilities",
+      "Providing financial and technological support",
+      "Empowering small farmers through strategic aggregation"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Seamless supply chain integration",
+      "Ensuring optimal pricing for farmers",
+      "Supporting agricultural innovation and sustainability",
+      "Strengthening FPO networks for long-term growth"
     ]
   },
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/cotton.jpg",
+      "smallImage": "img/cotton.jpg"
     },
     {
       "title": "Project Title",

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>About us &#8211; PAPL</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="PAPL &raquo; Feed" href="https://ploughmanagro.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PAPL &raquo; Comments Feed" href="https://ploughmanagro.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ploughmanagro.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='siteorigin-corp-style-css' href='https://ploughmanagro.com/wp-content/themes/siteorigin-corp/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-google-web-fonts-css' href='https://fonts.googleapis.com/css?family=Lexend%3Aregular#038;subset=latin&#038;display=block' type='text/css' media='all' />
+<link rel='stylesheet' id='font-aws-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css' href='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='site-specific-css-css' href='https://ploughmanagro.com/wp-content/themes/siteorigin-corp-child/assets/css/site-specific.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-google-fonts-css' href='https://fonts.googleapis.com/css2?family=Exo%3Awght%40300%3B500%3B800&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='innerpage-css-css' href='https://ploughmanagro.com/wp-content/themes/siteorigin-corp-child/assets/css/inner-page.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://ploughmanagro.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://ploughmanagro.com/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" id="bootstrap-bundled-js"></script>
+<link rel="https://api.w.org/" href="https://ploughmanagro.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://ploughmanagro.com/wp-json/wp/v2/pages/120" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ploughmanagro.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<link rel="canonical" href="https://ploughmanagro.com/about-us/" />
+<link rel='shortlink' href='https://ploughmanagro.com/?p=120' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ploughmanagro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fploughmanagro.com%2Fabout-us%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ploughmanagro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fploughmanagro.com%2Fabout-us%2F&#038;format=xml" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+				<style type="text/css" id="siteorigin-corp-settings-custom" data-siteorigin-settings="true">
+					/* style */ body,button,input,select,optgroup,textarea { font-family: "Lexend", sans-serif; font-weight: normal;  } h1,h2,h3,h4,h5,h6 { font-family: "Lexend", sans-serif; font-weight: normal;  }       table { font-family: "Lexend", sans-serif; font-weight: normal;  }   .button,button,input[type=button],input[type=reset],input[type=submit] { font-family: "Lexend", sans-serif; font-weight: normal;  }       fieldset legend { font-family: "Lexend", sans-serif; font-weight: normal;  }      .link-underline.main-navigation ul .sub-menu li:first-of-type { border-top: 2px solid #c14822; } .link-underline.main-navigation ul .children li:first-of-type { border-top: 2px solid #c14822; } .main-navigation ul li { font-family: "Lexend", sans-serif; font-weight: normal;  } .main-navigation ul li a { color: #000000; }   [class*=overlap] .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li:hover > a { color: #c14822; } .link-underline.main-navigation div > ul:not(.cart_list) > li:hover > a { border-color: #c14822; } .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li:hover > a { color: #c14822; } .main-navigation div > ul:not(.cart_list) > li.current > a,.main-navigation div > ul:not(.cart_list) > li.current_page_item > a,.main-navigation div > ul:not(.cart_list) > li.current-menu-item > a,.main-navigation div > ul:not(.cart_list) > li.current_page_ancestor > a,.main-navigation div > ul:not(.cart_list) > li.current-menu-ancestor > a { border-color: #c14822; } .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current > a,.main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current_page_item > a,.main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current-menu-item > a,.main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current_page_ancestor > a,.main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current-menu-ancestor > a { color: #c14822; } [class*=overlap] .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current > a,[class*=overlap] .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current_page_item > a,[class*=overlap] .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current-menu-item > a,[class*=overlap] .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current_page_ancestor > a,[class*=overlap] .main-navigation:not(.link-underline) div > ul:not(.cart_list) > li.current-menu-ancestor > a { color: #c14822; } .main-navigation .search-toggle .open svg path { fill: #000000; } #mobile-menu-button svg path { fill: #000000; }  #mobile-navigation ul li { font-family: "Lexend", sans-serif; font-weight: normal;  }     .pagination .page-numbers { font-family: "Lexend", sans-serif; font-weight: normal;  }       .post-navigation a div { font-family: "Lexend", sans-serif; font-weight: normal;  }         .site-content #jp-relatedposts .jp-relatedposts-headline { font-family: "Lexend", sans-serif; font-weight: normal;  } .site-content #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-title a { font-family: "Lexend", sans-serif; font-weight: normal;  }                   .site-footer .widget_recent_comments .recentcomments { color: #0a0909; } .site-footer .widget_recent_comments .recentcomments .comment-author-link { color: #0a0909; } .site-footer .widget_recent_comments .recentcomments .comment-author-link:before { color: #0a0909; } .site-footer .widget_recent_comments .recentcomments a { color: #0a0a0a; }       .site-footer .widget_tag_cloud a:after { background: #eceaea; }  .site-header { padding: 0px 0; } .site-header .site-branding .site-title { font-family: "Lexend", sans-serif; font-weight: normal;  }  .site-header .site-branding .site-description { font-family: "Lexend", sans-serif; font-weight: normal;  } .site-header,.masthead-sentinel { margin-bottom: 0px; }  #fullscreen-search span { font-family: "Lexend", sans-serif; font-weight: normal;  }      .entry-meta { font-family: "Lexend", sans-serif; font-weight: normal;  }    .page-links .post-page-numbers { font-family: "Lexend", sans-serif; font-weight: normal;  }                                     .comment-list .comment .author,.comment-list .pingback .author { font-family: "Lexend", sans-serif; font-weight: normal;  }    .comment-list .comment .comment-reply-link,.comment-list .pingback .comment-reply-link { font-family: "Lexend", sans-serif; font-weight: normal;  }      .site-footer { background: #eceaea; margin-top: ; } .site-footer .widgets { padding-top: 60px; } .site-footer .widgets .widget { color: #0a0909; margin-bottom: 60px; } .site-footer .widgets .widget .wp-block-group__inner-container :is(h1,h2,h3,h4,h5,h6),.site-footer .widgets .widget .widget-title { color: #0a0a0a; } .site-footer .widgets .widget a { color: #0a0a0a; }  .site-footer .bottom-bar { background: #0a0707; color: #ffffff; padding: 10px 0; }     @media (max-width: 768px) { #masthead .search-toggle { margin: 0 20px 0 0; } .site-header .shopping-cart { margin: 0 37px 0 0; } #masthead #mobile-menu-button { display: inline-block; } #masthead .main-navigation:not(.mega-menu) ul:not(.shopping-cart) { display: none; } #masthead .main-navigation .search-icon { display: none; } .site-header.centered .site-branding { margin: 0; padding-right: 20px; text-align: left; } .centered.site-header .site-header-inner { flex-direction: row; } .site-header.centered .main-navigation { text-align: left; } } @media (min-width: 769px) { #masthead #mobile-navigation { display: none; } }				</style>
+				<link rel="icon" href="https://ploughmanagro.com/wp-content/uploads/2023/12/Papl_logo.webp" sizes="32x32" />
+<link rel="icon" href="https://ploughmanagro.com/wp-content/uploads/2023/12/Papl_logo.webp" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ploughmanagro.com/wp-content/uploads/2023/12/Papl_logo.webp" />
+<meta name="msapplication-TileImage" content="https://ploughmanagro.com/wp-content/uploads/2023/12/Papl_logo.webp" />
+		<style type="text/css" id="wp-custom-css">
+			.wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output, .wpcf7 form.payment-required .wpcf7-response-output{
+	border:none !important;
+	border-color:none !important;
+}		</style>
+		</head>
+
+<body class="page-template page-template-templates page-template-template-about page-template-templatestemplate-about-php page page-id-120 wp-custom-logo css3-animations no-js page-layout-no-sidebar sidebar no-topbar">
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+			<header id="masthead" class="site-header sticky mobile-menu" data-scale-logo="true" >
+
+			<div class="corp-container">
+
+				<div class="site-header-inner">
+
+					<div class="site-branding">
+						<a href="https://ploughmanagro.com/" class="custom-logo-link" rel="home"><img width="122" height="107" src="https://ploughmanagro.com/wp-content/uploads/2023/12/Papl_logo.webp" class="custom-logo" alt="PAPL" decoding="async" loading="eager" /></a>											</div><!-- .site-branding -->
+
+					
+					
+					<nav id="site-navigation" class="main-navigation">
+
+						<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-117"><a href="https://ploughmanagro.com/">Home</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-120 menu-item-174"><a href="https://ploughmanagro.com/about-us/" aria-current="page">About us</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://ploughmanagro.com/our-offerings/">Our Offerings</a></li>
+<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://ploughmanagro.com/partners/">Partners</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://ploughmanagro.com/resources/">Resources</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://ploughmanagro.com/contact/">Contact</a></li>
+</ul></div>
+						
+						
+													<a href="#menu" id="mobile-menu-button">
+							<div id="custom-mobile-menu-button">
+                                <div class="bar"></div>
+                                <div class="bar"></div>
+                                <div class="bar"></div>
+                            </div>
+                            </a>
+							<!--<a href="#menu" id="mobile-menu-button">-->
+							<!--	</?php siteorigin_corp_display_icon( 'menu' ); ?>-->
+							<!--	<span class="screen-reader-text"></?php esc_html_e( 'Menu', 'siteorigin-corp' ); ?></span>-->
+							<!--</a>-->
+						
+					</nav><!-- #site-navigation -->
+
+					
+				</div><!-- .site-header-inner -->
+
+			</div><!-- .corp-container -->
+
+		</header><!-- #masthead -->
+	
+	<div id="content" class="site-content">
+
+		<div class="corp-container-fluid">
+
+			<!-- Banner Section -->
+<section class="banner-main-section">
+	<div class="corp-container-fluid">
+		
+    <div class="banner-inner d-flex align-items-center justify-content-center" style="background:url('https://ploughmanagro.com/wp-content/uploads/2024/01/PAPL_About_us_Page-1.webp') no-repeat center center; background-size: cover;">
+    
+		
+		
+
+			<div class="banner-title-inner animated d-flex flex-column">
+			    
+			    <h1 class="text-yellow font-w700">
+			        About us			    </h1>
+			    
+			    <p class="slider-sub-title text-white service-sub-title text-start">
+			        <a href="https://ploughmanagro.com" rel="nofollow">Home</a>&nbsp;&nbsp;&#187;&nbsp;&nbsp;About us			    </p>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- About INCEPTION Section -->
+<section class="corp-container">
+	<div class="inception-section d-flex flex-wrap pt-50 pb-50">
+		<div class="inception-content text-start animated_left">
+			<h2 class="inception-title text-upper h3 font-w600 pt-30 pb-30">OUR INCEPTION</h2>
+			<div class="inception-text"><div class="inception-scroll-bar-about"><p class="text-gray">Challenges like market linkage, processing, branding, financial support and technology mobilization, among various others, have long hindered the growth potential of FPOs and small farmers. With the rising number of FPOs a proactive approach was needed to overcome the persistent challenges they face.
+<br><br>
+To tackle these hurdles head on, Ploughman Agro Private Ltd. (PAPL), a dynamic social enterprise was conceptualized and established as a private limited company registered under the Companies Act. 2013. <span class="additional-paragraph-about text-gray">PAPL is dedicated to revolutionizing the agri-business landscape by facilitating the aggregation and trading of produce from farmer producer organizations. By strategically identifying optimal markets, seamlessly integrating supply chains, and ensuring best pricing, PAPL empowers FPOs to thrive and optimize their agricultural practices. Through this comprehensive solution, FPOs can navigate the intricate web of challenges and pave the way for a more prosperous future for the small farmer communities. We have our headquarters in Madhya Pradesh, a strategic central location in smallholder-dominant central India with highest growth in agricultural productivity in the last few years, which is also the leading state in FPO promotion. </span></p></div></div>
+			<button class="green-btn read-more-btn">Read More</button>
+		</div>
+		<div class="inception-image animated_right">
+			<img src="https://ploughmanagro.com/wp-content/uploads/2023/12/inception-img.webp" alt="" class="inception-img">
+		</div>
+	</div>
+</section>
+
+
+<!-- Vision Mission Section -->
+<section>
+        <div class="vision-mission-main-section">
+                        <div class="vision-mission-bg-section d-flex align-items-center" style="background:url('https://ploughmanagro.com/wp-content/uploads/2023/12/vision-mission-BG-img.webp') no-repeat center center; background-size: cover;">
+                            <div class="vision-mission-section d-flex flex-wrap flex-column">
+                	<div class="vision-section d-flex align-items-center animated_right">
+                		<div class="vision-icon-title font-w600 ">
+                			<img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Vision-icon.webp" alt="<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>D:\INETPUB\VHOSTS\ploughmanagro.com\httpdocs\wp-content\themes\siteorigin-corp-child\templates\template-about.php</b> on line <b>30</b><br />
+">
+                			<h2 class="text-center animated">Vision</h2>
+                		</div>
+                		<div class="vision-text">
+                			<span class="animated_down"><ul>
+<li>To become a leading sustainable agriculture commodity marketing company by fostering inclusive growth and prosperity through pro-environment, pro-farmer and pro-market interventions.</li>
+</ul>
+</span>
+                		</div>
+                	</div>
+                	<div class="mission-section d-flex align-items-center animated_right">
+                		<div class="mission-icon-title font-w600 ">
+                			<img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Mission-icon.webp" alt="mission-icon">
+                			<h2 class="text-center animated">Mission</h2>
+                		</div>
+                		<div class="mission-text">
+                			<span class="animated_down"><ul>
+<li>To empower smallholder farmers by connecting them to markets, ensuring fair prices, and driving sustainable production and marketing.</li>
+<li>To lead the industry through widespread corporate partnerships, localized processing, and skill development for prosperity and transformative agricultural impact.</li>
+</ul>
+</span>
+                		</div>
+                	</div>
+                </div>
+            </div>
+    </div>
+</section>
+
+<!-- Direct Growers Section -->
+<section class="corp-container">
+	<div class="direct-growers-section pt-50">
+		<h2 class="direct-growers-title text-center text-upper font-w600 pb-30">DIRECT TO GROWERS APPROACH</h2>
+		<span class="direct-growers-text text-black animated_up"><p>In a world where conventional supply chains often overshadow the hands that till the land, PAPL’s business model is pioneering a new era in the agribusiness sector. Our path-breaking approach uplifts farmers from being just suppliers of raw materials and transform them into primary aggregators and processors.</p>
+<p>PAPL’s ‘<strong>Direct to Growers Model</strong>’ is where cultivation meets innovation, and growers step into the spotlight as the driving force behind an equitable and profitable agricultural landscape. It is designed with the farmers at the heart and derived out of various factors like:</p>
+</span>
+	</div>
+	<div class="direct-growers-left-right-section pb-50 d-flex flex-wrap">
+		<div class="direct-growers-left-text text-start">
+			<span class="direct-growers-text text-black"><ol>
+<li>The rise of the domestic middle class and the diversification of dietary preferences.</li>
+<li>A rising, robust demand for safe consumables, particularly organically grown, free from chemical pesticide residues, both locally and internationally</li>
+<li>The amplified need for responsible farming, judicious resource allocation for sustenance, green energy and conscientious consumption patterns catalyzed by climate change hazards</li>
+<li>The Corporate shift towards sustainable sourcing for raw materials, spurred on by the pursuit of carbon neutrality</li>
+</ol>
+<p>In response we created a model that is forging an alterative supply chain that procures directly from growers through FPOs, ensuring that the benefits flow directly to the grassroots, circumventing intermediaries. Our distinctive market niche functions with an overarching objective to provide farmers with steady incomes by empowering them through fair practices, training, process efficiency and sustainable farming methodologies.</p>
+</span>
+		</div>
+		<div class="direct-growers-right-img animated_right">
+			<img src="https://ploughmanagro.com/wp-content/uploads/2023/12/OurBusinessModel-img.webp" alt="ourbusinessmodel-img">
+			<h5 class="text-orange">Our Business Model			</h5>
+		</div>
+	</div>
+</section>
+
+<!-- Next Step Section -->
+<section class="corp-container">
+	<div class="next-step-section">
+		<h2 class="direct-growers-title text-center pb-30 font-w600 animated_down">NEXT STEPS</h2>
+		<p class="direct-growers-text text-center animated_up">In our journey towards a shared future, we are fuelled by the belief that every action has a ripple, every endeavour a lasting impact. Our commitment to rural prosperity and sustainable agriculture stands as a beacon, guiding our steps and shaping our decisions as we navigate the next five to six years and beyond.</p>
+	</div>
+	<div class="next-step-left-right-section next-step-left-right-section1 d-flex flex-wrap align-items-center pt-30">
+		<div class="next-step-left-img animated_left">
+			<img src="https://ploughmanagro.com/wp-content/uploads/2024/01/next-step-img1.webp" alt="">
+		</div>
+		<div class="next-step-right-content animated_right">
+			<h4 class="next-step-right-title text-orange font-w600">Connecting Millions for Collective Prosperity</h4>
+			<span class="next-step-right-text text-black"><p>We aspire to form a bridge between millions of small farmers and the best markets for their produce by effectively channelling their collective efforts through farmer produce organizations.</p>
+</span>
+		</div>
+	</div>
+	<div class="next-step-left-right-section next-step-left-right-section2 d-flex flex-wrap align-items-center pt-30">
+		<div class="next-step-left-content animated_left">
+			<h4 class="ext-step-left-title text-orange font-w600">Pioneering Sustainable Agriculture Value Chains</h4>
+			<span class="ext-step-left-text text-black"><p>We seek to take the lead in nurturing value chains for sustainable agricultural commodities sourced from regenerative and organic production systems rooted in transparency, responsibility, and robustness</p>
+</span>
+		</div>
+		<div class="next-step-right-img animated_right">
+			<img src="https://ploughmanagro.com/wp-content/uploads/2024/01/next-step-img2.webp" alt="">
+		</div>
+	</div>
+</section>
+
+<!-- About Team Section -->
+<section class="corp-container" id="team-member">
+    <div class="about-team-main-section pt-50">
+        <h2 class="text-center pb-30 font-w600 animated_down">TEAM PAPL</h2>
+        <p class="about-team-text text-center animated_up">PAPL is led by experts and practitioners with long standing and credible experience in rural livelihoods programs, livelihood financing, policy, market access including the FPO. United by the shared goal to uplift small farmer communities, our dynamic top management inspires us to enable, empower and enhance.</p>
+        <div class="about-team-section d-flex flex-wrap">
+                                <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-1">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2024/02/Ashis-Mondal-img.jpg" alt="ashis-mondal-img-3">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Ashis Mondal</h5>
+                                    <h6 class="text-black member-designation">Managing Director</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>Ashis Mondal has an illustrious career in natural resource management and regenerative agriculture spanning over thirty years. Ashis’s expertise lies in smallholders’ agriculture, non-profit management and building farmers’ organization for agri-value chains linkage. He has served as a member of several national and international advisory committees including the National Advisory Council, Government of India.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2024/02/Ashis-Mondal-img.jpg" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Ashis Mondal</h6>
+                                                    <h6 class="text-white member-designation">Managing Director</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-2">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Amitabh-Ghosh-Img.webp" alt="amitabh-ghosh-img">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Amitabh Ghosh</h5>
+                                    <h6 class="text-black member-designation">Chief Operating Officer</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>Amitabh is an eminent chartered accountant with over forty years of experience in managing finance and operations in India and abroad. At PAPL he overlooks and manages the overall team and duals up as the Chief Finance Officer.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Amitabh-Ghosh-Img.webp" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Amitabh Ghosh</h6>
+                                                    <h6 class="text-white member-designation">Chief Operating Officer</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-3">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Archana-Dubey-Img.webp" alt="archana-dubey-img">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Archana Dubey</h5>
+                                    <h6 class="text-black member-designation">Manager Accounts & Finance</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>Archana Dubey, a skilled Accounts/Finance/Commercial Operations Professional, brings 20+ years of expertise to her role as Accounts Manager. Her expertise spans overseeing the entire accounting and compliance process for Organic Cotton. Holding a Master’s degree in Commerce, she excels in managing accounts and taxation.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Archana-Dubey-Img.webp" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Archana Dubey</h6>
+                                                    <h6 class="text-white member-designation">Manager Accounts & Finance</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-4">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Pushpendra-Yadav-Img.webp" alt="pushpendra-yadav-img">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Pushpendra Yadav</h5>
+                                    <h6 class="text-black member-designation">Senior Supply Chain Manager and FPO support</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>Pushpendra, a seasoned supply chain development professional for agriculture commodities is the backbone of seamless flow of agriculture commodities from the FPOs to the buyers.  Pushpendra holds a Master’s degree in political science and with 23 years of rich experience in agri. supply chain management with reputed companies of India.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Pushpendra-Yadav-Img.webp" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Pushpendra Yadav</h6>
+                                                    <h6 class="text-white member-designation">Senior Supply Chain Manager and FPO support</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-5">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Rashid-Sheikh-Img.webp" alt="rashid-sheikh-img">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Rashid Sheikh</h5>
+                                    <h6 class="text-black member-designation">Senior Supply Chain Manager and FPO support</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>Trained as a professional social worker, Rashid is hands-on in promotion of organic farming and supply chain management of organic commodities, particularly organic cotton. Rashid is a MSW from the Indore School of Social Work and looks after the organic cotton vertical in the PAPL. He has about 15 years of rich experience in organic farming and FPO linked supply chain management.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Rashid-Sheikh-Img.webp" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Rashid Sheikh</h6>
+                                                    <h6 class="text-white member-designation">Senior Supply Chain Manager and FPO support</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-6">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Vikas-Pandey-Img.webp" alt="vikas-pandey-img">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Vikas Pandey</h5>
+                                    <h6 class="text-black member-designation">Senior Manager Internal Control and Traceability</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-6" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>Vikas Pandey completed his Master’s degree in social work from Indore School of Social Work. He has been working for sustainable agriculture development with particular interest in organic cotton for the past 15 years. He is responsible for quality control and traceability of organic and other products certified under various standards.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Vikas-Pandey-Img.webp" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Vikas Pandey</h6>
+                                                    <h6 class="text-white member-designation">Senior Manager Internal Control and Traceability</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="about-team-inner-section outer-wrapper animated_up">
+                        <div class="card-body about-team-content text-center">
+                            <a href="#" class="green-font" data-bs-toggle="modal" data-bs-target="#team-7">
+                                <div class="team-img-section">
+                                    <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Lilabati-Bhoy-Img.webp" alt="lilabati-bhoy-img">
+                                </div>
+                                <div class="team-read-more align-items-center">
+                                    <h5 class="text-black font-w600">Lilabati Bhoy</h5>
+                                    <h6 class="text-black member-designation">Development Associate</h6>
+									<h6 class="font-13 text-black font-12 member-sub-designation"></h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- Modal placed inside the loop -->
+                    <div class="modal fade" id="team-7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <div class="model-title-close-wrap d-flex justify-content-end">
+                                        <div class="model-close">
+                                            <button type="button" class="model-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                    </div>
+                                    <div class="team-content text-center">
+                                        <div class="team-content-inner">
+                                            <p>As a Development Associate in Odisha, Lilabati efficiently manages PAPL operations, focusing on Organic Cotton production, Land and Water Resource development, and support for the Farmers&#8217; Producer Organization (FPO). She directly engages with farmers to provide essential support as needed and plays a pivotal role in the on-the-ground implementation of various operations, contributing to the overall success and sustainability of the initiatives.</p>
+                                            <div class="team-member-detail d-flex flex-wrap align-items-end">
+                                                <img src="https://ploughmanagro.com/wp-content/uploads/2023/12/Lilabati-Bhoy-Img.webp" alt="" class="team-member-detail-img">
+                                                <div class="team-member-name text-start">
+                                                    <h6 class="text-orange font-w600">Lilabati Bhoy</h6>
+                                                    <h6 class="text-white member-designation">Development Associate</h6>
+													<h6 class="text-white font-12 member-sub-designation"></h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+    </div>
+</section>
+
+</div><!-- .corp-container -->
+</div><!-- #content -->
+<footer id="colophon" class="site-footer">
+			<div class="corp-container">
+		
+				</div><!-- .corp-container -->
+				<div class="bottom-bar">
+			<div class="corp-container">
+				<div class="site-info">
+					<span>2025 © Copyright PAPL. All Rights Reserved</span>					</div><!-- .site-info -->
+											</div><!-- .corp-container -->
+						</div><!-- .bottom-bar -->
+												</footer><!-- #colophon -->
+												</div><!-- #page -->
+												<div id="scroll-to-top">
+							<span class="screen-reader-text">Scroll to top</span>
+										<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+				<path class="st0" d="M12,2c0.3,0,0.5,0.1,0.7,0.3l7,7C19.9,9.5,20,9.7,20,10c0,0.3-0.1,0.5-0.3,0.7S19.3,11,19,11
+				c-0.3,0-0.5-0.1-0.7-0.3L13,5.4V21c0,0.3-0.1,0.5-0.3,0.7S12.3,22,12,22s-0.5-0.1-0.7-0.3S11,21.3,11,21V5.4l-5.3,5.3
+				C5.5,10.9,5.3,11,5,11c-0.3,0-0.5-0.1-0.7-0.3C4.1,10.5,4,10.3,4,10c0-0.3,0.1-0.5,0.3-0.7l7-7C11.5,2.1,11.7,2,12,2z"/>
+			</svg>
+								</div>
+												<link rel='stylesheet' id='owl-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animation-css-css' href='https://ploughmanagro.com/wp-content/themes/siteorigin-corp-child/assets/css/animation.css' type='text/css' media='all' />
+<script type="text/javascript" id="siteorigin-corp-script-js-extra">
+/* <![CDATA[ */
+var siteoriginCorp = {"collapse":"768","logoScale":"0.755","stickyOffset":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ploughmanagro.com/wp-content/themes/siteorigin-corp/js/jquery.theme.min.js" id="siteorigin-corp-script-js"></script>
+<script type="text/javascript" src="https://ploughmanagro.com/wp-content/themes/siteorigin-corp/js/skip-link-focus-fix.min.js" id="siteorigin-corp-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" id="owl-js-script-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" id="slick-script-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" id="magnific-js-js"></script>
+<script type="text/javascript" src="https://ploughmanagro.com/wp-content/themes/siteorigin-corp-child/assets/js/animation.js" id="animation-js-js"></script>
+<script type="text/javascript" src="https://ploughmanagro.com/wp-content/themes/siteorigin-corp-child/assets/js/site-specific.js" id="site-specific-js-js"></script>
+											</body>
+				</html>
